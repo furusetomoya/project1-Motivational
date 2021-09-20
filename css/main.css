@@ -1,0 +1,61 @@
+.profile-card {
+    position: relative;
+}
+
+p {
+    font-family: Futura;
+    margin: 0!important;
+    letter-spacing: 0.02em;
+}
+
+.avatar {
+    width: 100%;
+    height: auto;
+}
+
+.textBox {
+    position: absolute;
+}
+
+.bgBox {
+    background-position: center;
+    background-size: cover;
+}
+
+.heightCenter {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+
+.widthCenter {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+}
+
+.left {
+    left: 10%;
+}
+
+.right {
+    right: 10%;
+}
+
+.top {
+    top: 10%;
+}
+
+.bottom {
+    bottom: 10%;
+}
+
+.vh-75 {
+    height: 75vh;
+}
