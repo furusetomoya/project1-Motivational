@@ -1,4 +1,4 @@
-#Recursion Project1
+# Recursion Project1
 
-WEB
+WEB  
 https://furusetomoya.github.io/project1-Motivational/
